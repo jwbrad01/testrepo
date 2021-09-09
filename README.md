@@ -1,2 +1,3 @@
 # test code 
-print("Happy Days")
+total = 1+1
+print(total)
